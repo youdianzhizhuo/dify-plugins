@@ -2,7 +2,7 @@ extra:
   python:
     source: provider/mysql.py
 identity:
-  author: zhangzheng
+  author: youdianzhizhuo
   description:
     en_US: MySQL database connector
     zh_Hans: MySQL数据库连接器
