@@ -7,7 +7,7 @@ extra:
   python:
     source: tools/mysql_query.py
 identity:
-  author: zhangzheng
+  author: youdianzhizhuo
   icon: mysql.png
   label:
     en_US: MySQL Query
